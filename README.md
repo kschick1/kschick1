@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kschick1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @kschick1 (Kyle Schick)
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Front End Web Development
 - 📫 How to reach me:
-Instagram: @kyleschick
-Twitter: @kylschick
+- 📸 Instagram: @kyleschick
+- 🐦 Twitter: @kylschick
